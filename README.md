@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Vijay Purandare👋<br>💻 Turning ideas into websites, apps & digital experiences<br>🎨 Passionate about UI/UX, Web Development & Creative Design<br>🚀 Currently building projects, learning new technologies & breaking things along the way<br>🧠 Exploring Full-Stack Development,  & AI<br>⚡ Engineering student who believes every problem can be solved with enough code<br>📫 Reach me: purandarevijay123@gmail.com<br>🎓 Cambridge Institute of Technology
+Hi, I’m Vijay Purandare👋<br>💻 Turning ideas into websites, apps & digital experiences<br>🎨 Passionate about AI/ML, Web Development & Fullstack <br>🚀 Currently building projects, learning new technologies & breaking things along the way<br>🧠 Exploring Data Science,  & AI/ML<br>⚡ Engineering student who believes every problem can be solved with enough code<br>📫 Reach me: purandarevijay123@gmail.com<br>🎓 Cambridge Institute of Technology
 
 
 ## 🌐 Socials:
